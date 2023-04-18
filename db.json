@@ -1,0 +1,175 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "defaultuser@default.com",
+      "firstname": "John",
+      "lastname": "Doe",
+      "password": "defaultpassword",
+      "profilepic": "",
+      "userposts": [
+        {
+          "id": 1,
+          "text": "Going out tonight. Who wants to come with?"
+        },
+        {
+          "id": 2,
+          "text": "DJing tonight at EDMadness. Come see my set, and have a few drinks!"
+        }
+      ],
+      "gender": "Male",
+      "age": "26",
+      "birthday": "08-12-1997",
+      "job": "Mechanic",
+      "city": "St. John's",
+      "province": "Newfoundland and Labrador",
+      "country": "Canada",
+      "relationship": "In a relationship",
+      "bio": "Just a regular guy who loves urban exploration, EDM music, and my friends and family.",
+      "profilepicture": "https://images.unsplash.com/photo-1529946825183-536c6317f60e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8YW5vbnltb3VzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+      "userphotos": [
+        {
+          "id": 1,
+          "url": "https://images.unsplash.com/photo-1503249023995-51b0f3778ccf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8YW5vbnltb3VzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+        },
+        {
+          "id": 2,
+          "url": "https://images.unsplash.com/photo-1549576475-cb2cf58b4a81?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTF8fHVyYmV4fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+        },
+        {
+          "id": 3,
+          "url": "https://images.unsplash.com/photo-1584352604394-c2c6f06e00c1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGRhbmNlJTIwY2x1YnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=700&q=60"
+        },
+        {
+          "id": 4,
+          "url": "https://images.unsplash.com/photo-1527630941-4a229fd674ab?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjl8fGFub255bW91c3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=700&q=60"
+        },
+        {
+          "id": 5,
+          "url": "https://images.unsplash.com/photo-1521477378290-00b044a957dc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzN8fGFub255bW91c3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=700&q=60"
+        }
+      ],
+      "newuserphotos": []
+    },
+    {
+      "id": 2,
+      "email": "email@email.com",
+      "firstname": "Jonah",
+      "lastname": "Greening",
+      "password": "pass",
+      "profilepic": "",
+      "userposts": [
+        {
+          "id": 1,
+          "text": "It's over 9000!!!!!!!!!"
+        },
+        {
+          "id": 2,
+          "text": "If debugging is the process of removing bugs, then programming must be the process of putting them in."
+        },
+        {
+          "id": 3,
+          "text": "Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it."
+        }
+      ],
+      "gender": "Male",
+      "age": "30",
+      "birthday": "03-30-1993",
+      "job": "Student",
+      "city": "Clarenville",
+      "province": "Newfoundland and Labrador",
+      "country": "Canada",
+      "relationship": "Engaged",
+      "bio": "\"“When I wrote this code, only God and I understood what I did. Now only God knows.”",
+      "profilepicture": "https://images.unsplash.com/photo-1627672360124-4ed09583e14c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTh8fGFuaW1lfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+      "userphotos": [
+        {
+          "id": 1,
+          "url": "https://images.unsplash.com/photo-1575540325855-4b5d285a3845?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Z29rdXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=700&q=60"
+        },
+        {
+          "id": 2,
+          "url": "https://images.unsplash.com/photo-1606663889439-d732b9e58816?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Z29rdXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=700&q=60"
+        }
+      ],
+      "newuserphotos": "",
+      "newuserposts": ""
+    }
+  ],
+  "currentUser": {
+    "id": 1,
+    "email": "defaultuser@default.com",
+    "firstname": "John",
+    "lastname": "Doe",
+    "password": "defaultpassword",
+    "profilepic": "",
+    "userposts": [
+      {
+        "id": 1,
+        "text": "Going out tonight. Who wants to come with?"
+      },
+      {
+        "id": 2,
+        "text": "DJing tonight at EDMadness. Come see my set, and have a few drinks!"
+      }
+    ],
+    "gender": "Male",
+    "age": "26",
+    "birthday": "08-12-1997",
+    "job": "Mechanic",
+    "city": "St. John's",
+    "province": "Newfoundland and Labrador",
+    "country": "Canada",
+    "relationship": "In a relationship",
+    "bio": "Just a regular guy who loves urban exploration, EDM music, and my friends and family.",
+    "profilepicture": "https://images.unsplash.com/photo-1529946825183-536c6317f60e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8YW5vbnltb3VzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+    "userphotos": [
+      {
+        "id": 1,
+        "url": "https://images.unsplash.com/photo-1503249023995-51b0f3778ccf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8YW5vbnltb3VzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+      },
+      {
+        "id": 2,
+        "url": "https://images.unsplash.com/photo-1549576475-cb2cf58b4a81?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTF8fHVyYmV4fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+      },
+      {
+        "id": 3,
+        "url": "https://images.unsplash.com/photo-1584352604394-c2c6f06e00c1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGRhbmNlJTIwY2x1YnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=700&q=60"
+      },
+      {
+        "id": 4,
+        "url": "https://images.unsplash.com/photo-1527630941-4a229fd674ab?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjl8fGFub255bW91c3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=700&q=60"
+      },
+      {
+        "id": 5,
+        "url": "https://images.unsplash.com/photo-1521477378290-00b044a957dc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzN8fGFub255bW91c3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=700&q=60"
+      }
+    ],
+    "newuserphotos": [],
+    "newuserposts": ""
+  },
+  "dummyuser1": {
+    "id": 1,
+    "firstname": "Joan",
+    "lastname": "Heeler",
+    "userposts": [
+      {
+        "id": 1,
+        "text": "Join my new startup for healthy living @ wwwEatingWithJoan.com. Let's help you help yourself!"
+      }
+    ],
+    "profilepicture": "https://images.unsplash.com/photo-1518708909080-704599b19972?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+  },
+  "dummyuser2": {
+    "id": 1,
+    "firstname": "Garrett",
+    "lastname": "King",
+    "userposts": [
+      {
+        "id": 1,
+        "text": "Just made over $1 MILLION investing in Bitcoin and bought a new motorcyle. Maybe if you're nice enough, I'll sell you my secrets..."
+      }
+    ],
+    "profilepicture": "https://images.unsplash.com/photo-1584940120743-8981ca35b012?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cmljaCUyMGd1eXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=700&q=60"
+  }
+}
